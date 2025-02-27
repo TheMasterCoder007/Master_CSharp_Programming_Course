@@ -5,10 +5,10 @@
 // *  Hello World
 // *
 // * Assignment Details:
-// *  Print hello world to console. Does not require you to keep console open.
+// *  Print hello world to console.
 // *
 // * Program Improvements (Not Required by Course):
-// *  1. Keep console open after printing to console (require user to press button to quit)
+// *  1. Keep console open after printing (require the user to press button to quit)
 // *
 // */
 
