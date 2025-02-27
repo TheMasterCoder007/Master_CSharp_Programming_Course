@@ -5,13 +5,11 @@
  *  Addition Calculator
  *
  * Assignment Details:
- *  Create a simple console calculator that takes in two integers and returns the sum. The course does not
- *  require the program to handle exceptions such as if the user give no input or a invalid input such as a decimal
- *  number, or letter.
+ *  Create a simple console calculator that takes in two integers and returns the sum.
  *
  * Program Improvements (Not Required by Course):
  *  1. Error handling
- *  2. Allow numbers larger than a int to be processed
+ *  2. Allow numbers larger than an int to be processed
  *  3. Allow decimal numbers
  *
  */
